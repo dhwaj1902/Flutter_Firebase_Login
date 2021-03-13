@@ -51,8 +51,6 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   assets:
-    - assets/logo.png
-    - assets/logo1.png
     - assets/home.png
     - assets/sign_in.png
     - assets/sign_up.png
